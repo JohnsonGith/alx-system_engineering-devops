@@ -1,2 +1,2 @@
 #!/bin/bash
-In -sf /bin/ls __ls__
+In -s /bin/ls __ls__
