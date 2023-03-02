@@ -1,7 +1,3 @@
-# ssh config file
-Host 52.3.250.153
-    HostName intranet.alxswe.com
-    User ubuntu
-    IdentityFile ~/.ssh/school
-    PasswordAuthentication no
-
+Host *
+	passwordAuthentification no
+	IdentityFile ~/.ssh/school
