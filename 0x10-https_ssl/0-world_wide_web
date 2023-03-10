@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # Configure my domain zone:
-# www --> 914-lb-01 34.237.76.64
-# web-01 --> 914-web-01 34.138.32.248
-# web-02 --> 914-web-02 3.226.74.205
+# www --> 93527-lb-01 52.87.252.89
+# web-01 --> 93527-web-01 52.3.250.153
+# web-02 --> 93527-web-02 54.237.78.129
 
 # -- To be evaluated --
 # domain_information () {
@@ -18,6 +18,7 @@
 #   domain_information "$1" "web-02"
 # elif [ "$#" == 2 ]
 # then
+B
 #   domain_information "$1" "$2"
 # fi
 #-- To be evaluated --
