@@ -40,5 +40,5 @@ frontend myfrontend
 
 backend jotech-backend
 	balance roundrobin
-	server web-01 54.144.46.99:80 check
-	server web-02 54.209.42.65:80 check	
+	server web-01 34.207.58.235:80 check
+	server web-02 54.237.48.178:80 check	
